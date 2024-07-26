@@ -1,0 +1,17 @@
+numpy
+pandas
+seaborn
+scipy
+statsmodels
+
+# data collection
+pycoingecko       # for crypto data
+snscrape          # for blockchain data
+flipside
+
+# utils
+fire
+filetype
+httpx           
+tqdm
+pyyaml
